@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepan Lesson V1", "Stepan Lesson V1\Stepan Lesson V1.csproj", "{78DE0925-CEB6-416E-8758-269C4D0718EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78DE0925-CEB6-416E-8758-269C4D0718EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DE0925-CEB6-416E-8758-269C4D0718EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DE0925-CEB6-416E-8758-269C4D0718EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DE0925-CEB6-416E-8758-269C4D0718EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
