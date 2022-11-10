@@ -1,0 +1,15 @@
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/bin/Debug/net6.0/Stepan Lesson V1
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/bin/Debug/net6.0/Stepan Lesson V1.deps.json
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/bin/Debug/net6.0/Stepan Lesson V1.runtimeconfig.json
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/bin/Debug/net6.0/Stepan Lesson V1.dll
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/bin/Debug/net6.0/Stepan Lesson V1.pdb
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/obj/Debug/net6.0/Stepan Lesson V1.csproj.AssemblyReference.cache
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/obj/Debug/net6.0/Stepan Lesson V1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/obj/Debug/net6.0/Stepan Lesson V1.AssemblyInfoInputs.cache
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/obj/Debug/net6.0/Stepan Lesson V1.AssemblyInfo.cs
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/obj/Debug/net6.0/Stepan Lesson V1.csproj.CoreCompileInputs.cache
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/obj/Debug/net6.0/Stepan Lesson V1.dll
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/obj/Debug/net6.0/refint/Stepan Lesson V1.dll
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/obj/Debug/net6.0/Stepan Lesson V1.pdb
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/obj/Debug/net6.0/Stepan Lesson V1.genruntimeconfig.cache
+/Users/romansys/RiderProjects/Stepan Lesson V1/Stepan Lesson V1/obj/Debug/net6.0/ref/Stepan Lesson V1.dll
